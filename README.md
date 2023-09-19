@@ -1,4 +1,4 @@
-# Food App
+# Pig Game
 
 <a name="readme-top"></a>
 
@@ -25,9 +25,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# [Food App] <a name="about-project"></a>
+# [Pig Game] <a name="about-project"></a>
 
-**[Food App]** The Food app will be a classic example of a Food App. It is a functional website that will show the list of shopping and empower readers to interact with them by adding recipes and inventories and generating shopping list.It has been made by the following ERD diagram.
+**[Pig Game]** Pig Game is an exciting JavaScript-based two-player game that adds a thrilling twist to the classic dice-rolling experience. In this game, two players take turns rolling a virtual dice, each hoping to avoid the dreaded "1."
+
+The objective is simple: be the last player standing! The game starts with Player 1 rolling the dice, and their goal is to avoid rolling a 1. If they succeed, they can accumulate points by rolling higher numbers. However, if a 1 appears, the dice passes to Player 2.
+
+Player 2 then takes their turn, trying to roll anything but a 1. The game continues with players taking turns, hoping to outlast their opponent. It's a game of chance, strategy, and nerves of steel.
+
+Pig Game is perfect for a quick and fun gaming session with a friend or family member. Are you up for the challenge? Roll the dice and see who emerges victorious in this thrilling game of dice-rolling strategy!
 
 ![ERD diagram](image-1.png)
 
@@ -36,9 +42,9 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Ruby</summary>
+  <summary>Javascript</summary>
   <ul>
-    <li><a>https://www.ruby-lang.org/en/</a></li>
+    <li><a>https://www.javascript.com/</a></li>
   </ul>
 </details>
 
@@ -46,15 +52,11 @@
 
 ### Key Features <a name="key-features"></a>
 
- - [ ] **[Creating a data model]**
- - [ ] **[Processing data in models]**
- - [ ] **[Validations and Model specs]**
- - [ ] **[Setup and controllers]**
- - [ ] **[Views]**
- - [ ] **[Forms]**
- - [ ] **[Integration specs for Views and fixing n+1 problems]**
- - [ ] **[Add Devise]**
- - [ ] **[Add authorization rules]**
+ - [ ] **[Intuitive User Interface]**
+ - [ ] **[Multiplayer Mode]**
+ - [ ] **[Randomized Dice Rolls]**
+ - [ ] **[Score Tracking]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,37 +70,19 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
- - `bundle install`
+ - `Open the index.html`
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-- cd `Food-app-rails`
-- `(https://github.com/bilalrajput09/Food-app-rails.git)`
-
-
-### Install
-
-Install this project with:
-
-- cd Food-app-rails
-- bundle install
+- `(https://github.com/bilalrajput09/Pig-Game-JS.git)`
 
 ### Usage
 
 To run the project execute the following command:
 
-- rspec spec
-- rails routes
-
-### Run tests
-
-To run tests, run the following command:
-
-- `rubocop`
-- `rspec .`
-- `rails server`
+- Open the index.html in browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,21 +90,11 @@ To run tests, run the following command:
 
 ## Authors <a name="authors"></a>
 
-￼👤 **Ashna Ali**
-- GitHub: [@githubhandle](https://github.com/Ashnaali3255)
-- Twitter: [@twitterhandle](https://twitter.com/Ashna_Ali1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashna-ali-342151255/)
-
 👤 **Bilal Ahmed**
 
 - GitHub: [@bilalrajput09](https://github.com/bilalrajput09)
 - Twitter: [@bilal_rajput09](https://twitter.com/bilal_rajput09)
 - LinkedIn [Bilal Rajput](https://www.linkedin.com/in/bilal-ahmed-18b12019a/)
-
-👤 **IRADUKUNDA Pacific Rugwizangoga**
-
-- GitHub: [@githubhandle](https://github.com/rugwizangoga)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +102,7 @@ To run tests, run the following command:
 
 ## Future Features <a name="future-features"></a>
 
-- [ ] **[Food App ]**
+- [ ] **[Pig Game video version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +112,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/bilalrajput09/Pig-Game-JS/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,13 +129,17 @@ Give a ⭐ if you like this project
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank...
-- Microverse for the detailed requerements provided.
+- Microverse for all my learnings.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
+
+This project is [MIT](./license) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 This project is [MIT](./license) licensed.
 
