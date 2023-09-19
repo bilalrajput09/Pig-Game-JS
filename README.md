@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# [Food App] <a name="about-project"></a>
+# [Pig Game] <a name="about-project"></a>
 
 **[Pig Game]** Pig Game is an exciting JavaScript-based two-player game that adds a thrilling twist to the classic dice-rolling experience. In this game, two players take turns rolling a virtual dice, each hoping to avoid the dreaded "1."
 
